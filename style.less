@@ -1,0 +1,22 @@
+.CodeMirror-scroll::before {
+    content: '';
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 50%;
+    height: 90%;
+    background: url("assets/ini.png") no-repeat right bottom;
+    background-size: contain;
+    opacity: 0.1;
+}
+
+.CodeMirror-scroll,
+.CodeMirror-linenumber,
+.CodeMirror-gutters {
+    background: rgba(51, 51, 51, .8) !important;
+}
+
+.CodeMirror-activeline-background,
+.CodeMirror-gutter-elt {
+    background: rgba(60, 63, 65, .7) !important;
+}

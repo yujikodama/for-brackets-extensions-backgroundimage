@@ -1,0 +1,13 @@
+{
+    "name": "backgroundimage",
+    "title": "backgroundimage",
+    "description": "Display image favorite image right background",
+    "homepage": "https://github.com/yujikodama/for-brackets-extensions-backgroundimage.git",
+    "version": "1.0.0",
+    "author": "https://qiita.com/tako1993",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    },
+    "i18n": ["en"]
+}
